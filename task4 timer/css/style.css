@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+  color: white;
+}
+h1,h2 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+h1
+{
+  padding-top: 200px;
+}
+body
+{
+  background: #604B89;
+}
